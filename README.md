@@ -7,7 +7,7 @@ Built with **Clean Architecture** principles in mind, the codebase explicitly de
 ---
 
 ## 🚀 Live Demo
-🔗 **[Click here to view the live deployed application]https://rrajesh-spam-detector.streamlit.app/**
+🔗 **[Click here to view the live deployed application](https://rrajesh-spam-detector.streamlit.app/)**
 
 ---
 
